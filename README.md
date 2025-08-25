@@ -5,7 +5,7 @@ Tech stack: Python, TensorFlow, MediaPipe, OpenCV, Google Colab.
 
 Method:
 
-Collect gesture videos (e.g., "hello," "thank you").
+Collect gesture videos (e.g., "hello," "goodbye", "good", "bad").
 
 Extract body/hand/face keypoints with MediaPipe.
 
